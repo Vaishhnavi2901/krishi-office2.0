@@ -1,10 +1,16 @@
+## GrowthX Off Campus Code
+
+**RV9T26**
+
+---
+
 # KrishiAI - Agricultural Optimization Platform
 
 A comprehensive full-stack platform empowering Indian farmers with AI-driven crop recommendations, disease detection, and market insights.
 
 ## Overview
 
-KrishiAI is designed to help farmers make data-driven decisions about crop selection, farming practices, pest management, and market timing. The platform combines modern web technology with agricultural expertise to provide actionable recommendations.
+KrishiAI is designed to help farmers make data-driven decisions about crop selection, farming practices, pest management, and market timing. The platform combines modern web technology with agricultural expertise to provide accessible, actionable guidance.
 
 ## Key Features
 
